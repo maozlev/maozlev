@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maoz Lev. Student to Computer Science 2nd year at Ariel University.
 - 👀 I’m interested in student position as a software developer.
-- 🌱 I’m currently learning CPP, Sql, Java, JS, HTML, CSS and some private projects
-- 📫 How to reach me  maozlev9@gamil.com
+- 🌱 I’m currently learning CPP, Sql, Java, JS, Node JS, HTML, CSS.
+- 📫 How to reach me  maozlev9@gamil.com.
 
 - Thanks for watching!
 
