@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Maoz Lev. Student to Computer Science 3nd year at Ariel University.
-- 👀 I’m interested in student position as a software developer.
+- 👋 Hi, I’m Maoz Lev, Full-Stack developer at Fit-in. B.sc on Computer Science.
+- 👀 I’m interested in software development positions.
 - 📫 How to reach me:  maozlev9@gamil.com.
 - 📫 My LinkedIn: https://www.linkedin.com/in/maoz-lev-89b1b51ba/ 
 
